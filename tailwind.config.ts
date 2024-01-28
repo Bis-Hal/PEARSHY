@@ -11,7 +11,8 @@ const config: Config = {
     extend: {
       backgroundImage: {
         'hero': "url('/lipstick.png')",
-        'water-ball' : "url('/water_ball.jpg')"
+        'water-ball' : "url('/water_ball.jpg')",
+        'logo' : "url('/temp_logo.png')"
       },
       colors:{
       'primaryThemeColor' : "#DD5A3E"
